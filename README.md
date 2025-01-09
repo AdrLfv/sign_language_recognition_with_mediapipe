@@ -1,4 +1,4 @@
-# American Sign Language Recognition with Pytorch
+# American Sign Language Recognition with Pytorch and MediaPipe
 
 ## Description
 
